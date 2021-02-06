@@ -4,6 +4,7 @@ import 'dart:ui';
 /*<! ------ CONFIG ------!>*/
 
 const app_name = "MyApp";
+const admintoken = "Admintoken";
 
 
 
