@@ -5,12 +5,7 @@ import 'dart:ui';
 
 const app_name = "MyApp";
 
-const app_key = "Your app key from WooSignal";
 
-// Your App key from WooSignal
-// link: https://woosignal.com/dashboard/apps
-
-const app_logo_url = "https://woosignal.com/images/120x120_woosignal.png";
 
 const app_terms_url = "https://yourdomain.com/terms";
 const app_privacy_url = "https://yourdomain.com/privacy";
